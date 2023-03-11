@@ -1,4 +1,4 @@
-GWORLD = 0xEF005E0;
+#define UWORLD_OFFSET = 0xEF005E0; 
 
 	uintptr_t OwningGameInstance = 0x1B8;//GameInstance
 	uintptr_t LocalPlayes = 0x38;
